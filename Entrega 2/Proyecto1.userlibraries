@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="google.code.gson">
+    <archive path="C:/Users/erik1/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar" />
+    <archive path="C:/Users/erik1/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar" />
+  </library>
+</eclipse-userlibraries>
+
